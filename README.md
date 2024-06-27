@@ -1,1 +1,1 @@
-The wearable is compact and lightweight, ensuring all-day comfort.
+Tether is a smart wearable device that enables seamless touch-based notifications.
