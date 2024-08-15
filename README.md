@@ -1,1 +1,1 @@
-Firmware updates are delivered wirelessly, ensuring smooth performance.
+Tether's secure communication ensures privacy for all transmitted signals.
