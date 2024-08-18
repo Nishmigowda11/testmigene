@@ -1,1 +1,1 @@
-Tether is designed for minimal power consumption and long battery life.
+Tether's secure communication ensures privacy for all transmitted signals.
