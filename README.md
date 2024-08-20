@@ -1,1 +1,1 @@
-Firmware updates are delivered wirelessly, ensuring smooth performance.
+Tether is designed for minimal power consumption and long battery life.
