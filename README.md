@@ -1,1 +1,1 @@
-Tether is perfect for families, teams, and friends who want to stay connected effortlessly.
+Tether is a smart wearable device that enables seamless touch-based notifications.
