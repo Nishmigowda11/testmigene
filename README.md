@@ -1,1 +1,1 @@
-Tether is designed for minimal power consumption and long battery life.
+The wearable is compact and lightweight, ensuring all-day comfort.
