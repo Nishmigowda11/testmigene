@@ -1,1 +1,1 @@
-Users can send instant vibrations or light signals to their group members.
+The device integrates with a mobile app for enhanced functionality.
