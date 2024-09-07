@@ -1,1 +1,1 @@
-The device works via eSIM, ensuring connectivity even without Wi-Fi.
+Tether's secure communication ensures privacy for all transmitted signals.
