@@ -1,1 +1,1 @@
-The device integrates with a mobile app for enhanced functionality.
+Tether is a smart wearable device that enables seamless touch-based notifications.
