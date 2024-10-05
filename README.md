@@ -1,1 +1,1 @@
-Tether's secure communication ensures privacy for all transmitted signals.
+Users can send instant vibrations or light signals to their group members.
