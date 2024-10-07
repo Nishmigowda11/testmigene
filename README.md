@@ -1,1 +1,1 @@
-Tether's secure communication ensures privacy for all transmitted signals.
+Tether is a smart wearable device that enables seamless touch-based notifications.
