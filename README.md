@@ -1,1 +1,1 @@
-The device works via eSIM, ensuring connectivity even without Wi-Fi.
+The wearable is compact and lightweight, ensuring all-day comfort.
