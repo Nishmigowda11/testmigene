@@ -1,1 +1,1 @@
-Users can send instant vibrations or light signals to their group members.
+Tether is perfect for families, teams, and friends who want to stay connected effortlessly.
