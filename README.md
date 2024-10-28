@@ -1,1 +1,1 @@
-The device integrates with a mobile app for enhanced functionality.
+Firmware updates are delivered wirelessly, ensuring smooth performance.
