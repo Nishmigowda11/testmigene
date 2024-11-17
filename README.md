@@ -1,1 +1,1 @@
-Users can send instant vibrations or light signals to their group members.
+Firmware updates are delivered wirelessly, ensuring smooth performance.
