@@ -1,1 +1,1 @@
-The wearable is compact and lightweight, ensuring all-day comfort.
+Firmware updates are delivered wirelessly, ensuring smooth performance.
