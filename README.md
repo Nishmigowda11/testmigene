@@ -1,1 +1,1 @@
-The wearable is compact and lightweight, ensuring all-day comfort.
+The device integrates with a mobile app for enhanced functionality.
