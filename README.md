@@ -1,1 +1,1 @@
-Firmware updates are delivered wirelessly, ensuring smooth performance.
+The device integrates with a mobile app for enhanced functionality.
