@@ -1,1 +1,1 @@
-The device integrates with a mobile app for enhanced functionality.
+Tether is designed for minimal power consumption and long battery life.
