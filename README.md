@@ -1,1 +1,1 @@
-Firmware updates are delivered wirelessly, ensuring smooth performance.
+Tether is perfect for families, teams, and friends who want to stay connected effortlessly.
