@@ -1,1 +1,1 @@
-Users can send instant vibrations or light signals to their group members.
+Tether is designed for minimal power consumption and long battery life.
