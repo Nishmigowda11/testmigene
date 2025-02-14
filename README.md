@@ -1,1 +1,1 @@
-Tether's secure communication ensures privacy for all transmitted signals.
+It allows multiple users to stay connected through tap-based signals.
