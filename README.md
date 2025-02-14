@@ -1,1 +1,1 @@
-It allows multiple users to stay connected through tap-based signals.
+Users can send instant vibrations or light signals to their group members.
