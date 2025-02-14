@@ -1,1 +1,1 @@
-Tether is designed for minimal power consumption and long battery life.
+It allows multiple users to stay connected through tap-based signals.
