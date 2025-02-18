@@ -1,1 +1,1 @@
-It allows multiple users to stay connected through tap-based signals.
+Tether is a smart wearable device that enables seamless touch-based notifications.
