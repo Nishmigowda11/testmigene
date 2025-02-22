@@ -1,1 +1,1 @@
-Tether is perfect for families, teams, and friends who want to stay connected effortlessly.
+The device integrates with a mobile app for enhanced functionality.
