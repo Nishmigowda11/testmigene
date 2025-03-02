@@ -1,1 +1,1 @@
-The device works via eSIM, ensuring connectivity even without Wi-Fi.
+Tether is perfect for families, teams, and friends who want to stay connected effortlessly.
