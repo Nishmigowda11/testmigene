@@ -1,1 +1,1 @@
-Tether is perfect for families, teams, and friends who want to stay connected effortlessly.
+The wearable is compact and lightweight, ensuring all-day comfort.
