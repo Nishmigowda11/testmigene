@@ -1,1 +1,1 @@
-Firmware updates are delivered wirelessly, ensuring smooth performance.
+It allows multiple users to stay connected through tap-based signals.
