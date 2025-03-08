@@ -1,1 +1,1 @@
-The device integrates with a mobile app for enhanced functionality.
+The device works via eSIM, ensuring connectivity even without Wi-Fi.
