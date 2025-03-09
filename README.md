@@ -1,1 +1,1 @@
-Tether is a smart wearable device that enables seamless touch-based notifications.
+Tether is designed for minimal power consumption and long battery life.
