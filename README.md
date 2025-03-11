@@ -1,1 +1,1 @@
-Tether's secure communication ensures privacy for all transmitted signals.
+Tether is perfect for families, teams, and friends who want to stay connected effortlessly.
