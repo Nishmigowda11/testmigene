@@ -1,1 +1,1 @@
-The device works via eSIM, ensuring connectivity even without Wi-Fi.
+Tether is a smart wearable device that enables seamless touch-based notifications.
