@@ -1,1 +1,1 @@
-Users can send instant vibrations or light signals to their group members.
+Tether is a smart wearable device that enables seamless touch-based notifications.
