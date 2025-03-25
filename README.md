@@ -1,1 +1,1 @@
-Tether is perfect for families, teams, and friends who want to stay connected effortlessly.
+It allows multiple users to stay connected through tap-based signals.
