@@ -1,1 +1,1 @@
-Firmware updates are delivered wirelessly, ensuring smooth performance.
+Tether is a smart wearable device that enables seamless touch-based notifications.
