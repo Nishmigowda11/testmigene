@@ -1,1 +1,1 @@
-The wearable is compact and lightweight, ensuring all-day comfort.
+Tether's secure communication ensures privacy for all transmitted signals.
