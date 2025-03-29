@@ -1,1 +1,1 @@
-Tether is designed for minimal power consumption and long battery life.
+Tether is perfect for families, teams, and friends who want to stay connected effortlessly.
