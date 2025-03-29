@@ -1,1 +1,1 @@
-The wearable is compact and lightweight, ensuring all-day comfort.
+It allows multiple users to stay connected through tap-based signals.
