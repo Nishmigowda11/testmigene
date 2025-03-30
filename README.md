@@ -1,1 +1,1 @@
-Tether's secure communication ensures privacy for all transmitted signals.
+The device integrates with a mobile app for enhanced functionality.
