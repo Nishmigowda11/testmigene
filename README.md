@@ -1,1 +1,1 @@
-The device integrates with a mobile app for enhanced functionality.
+It allows multiple users to stay connected through tap-based signals.
