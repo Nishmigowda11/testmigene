@@ -1,1 +1,1 @@
-The device works via eSIM, ensuring connectivity even without Wi-Fi.
+It allows multiple users to stay connected through tap-based signals.
