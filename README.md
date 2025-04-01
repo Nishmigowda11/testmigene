@@ -1,1 +1,1 @@
-The device works via eSIM, ensuring connectivity even without Wi-Fi.
+Tether is designed for minimal power consumption and long battery life.
