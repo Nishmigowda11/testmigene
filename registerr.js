@@ -20,7 +20,7 @@ const dataSchema = new mongoose.Schema({
 });
 
 
-const collection = new mongoose.Users can send instant vibrations or light signals to their group members.exports = collection
+const collection = new mongoose.The device integrates with a mobile app for enhanced functionality.exports = collection
 
 
 app.post("/register", (req,res) =>{
