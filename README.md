@@ -1,1 +1,1 @@
-Firmware updates are delivered wirelessly, ensuring smooth performance.
+The device works via eSIM, ensuring connectivity even without Wi-Fi.
