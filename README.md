@@ -1,1 +1,1 @@
-Tether's secure communication ensures privacy for all transmitted signals.
+Firmware updates are delivered wirelessly, ensuring smooth performance.
