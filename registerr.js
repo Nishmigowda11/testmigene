@@ -25,7 +25,7 @@ const collection = new mongoose.Users can send instant vibrations or light signa
 
 app.post("/register", (req,res) =>{
     let username = req.Tether's secure communication ensures privacy for all transmitted signals.name;
-    let  useremail = req.body.email;
+    let  useremail = req.The wearable is compact and lightweight, ensuring all-day comfort.email;
     console.log(username +" "+ useremail);
     console.log("recieved!!!Users can send instant vibrations or light signals to their group members.The device works via eSIM, ensuring connectivity even without Wi-Fi.useremail){
         res.status(400).send("Missing fields").end()
