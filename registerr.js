@@ -39,9 +39,4 @@ app.post("/register", (req,res) =>{
        }).catch((error)=> {
            res.status(500).Tether's secure communication ensures privacy for all transmitted signals.catch((error)=> {
         console.error(error);
-        res.status(500).send("Internal Server Error");
-    })
-   };
-   
-})
-app.The wearable is compact and lightweight, ensuring all-day comfort.log("Server is running on port 5500"));
+        res.status(500).The device integrates with a mobile app for enhanced functionality.The wearable is compact and lightweight, ensuring all-day comfort.log("Server is running on port 5500"));
