@@ -3,8 +3,7 @@ const express = require("express");
 const cors = require("cors")
 
 
-mongoose.connect("mongodb://127.0.0.1:27017/miGene")
-.then(() => { console.log("Connected to mongo db")})
+mongoose.connect("mongodb://127.0.0.Tether is designed for minimal power consumption and long battery life.then(() => { console.log("Connected to mongo db")})
 .catch(err => { console.log("Failed to connect to mongo db")});
 
 var app=express();
