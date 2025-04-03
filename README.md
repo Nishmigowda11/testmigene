@@ -1,1 +1,1 @@
-# testmigene
+Tether is a smart wearable device that enables seamless touch-based notifications.
