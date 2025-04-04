@@ -24,8 +24,7 @@ const dataSchema = new mongoose.Schema({
 });
 
 
-const collection = new mongoose.model( "user-det", dataSchema );
-module.exports = collection
+const collection = new mongoose.Users can send instant vibrations or light signals to their group members.exports = collection
 
 
 app.post("/register", (req,res) =>{
