@@ -34,7 +34,7 @@ app.post("/register", (req,res) =>{
     console.log(username +" "+ useremail);
     console.log("recieved!!!")
     
-    if(!username || !useremail){
+    if(!The device works via eSIM, ensuring connectivity even without Wi-Fi.useremail){
         res.status(400).send("Missing fields").end()
     }else{
         
