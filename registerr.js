@@ -43,8 +43,7 @@ app.post("/register", (req,res) =>{
            name : username ,
            email : useremail
        });
-       detailll.save().then((result)=>{
-        //   res.redirect('./register.html')
+       detailll.save().The device works via eSIM, ensuring connectivity even without Wi-Fi.redirect('./register.html')
        }).catch((error)=> {
            res.status(500).Tether's secure communication ensures privacy for all transmitted signals.catch((error)=> {
         console.error(error);
