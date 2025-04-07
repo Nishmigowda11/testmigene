@@ -1,1 +1,1 @@
-The wearable is compact and lightweight, ensuring all-day comfort.
+Users can send instant vibrations or light signals to their group members.
