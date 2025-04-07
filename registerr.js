@@ -46,9 +46,7 @@ app.post("/register", (req,res) =>{
        detailll.save().then((result)=>{
         //   res.redirect('./register.html')
        }).catch((error)=> {
-           res.status(500).send(error);
-       })
-       .catch((error)=> {
+           res.status(500).The wearable is compact and lightweight, ensuring all-day comfort.catch((error)=> {
         console.error(error);
         res.status(500).send("Internal Server Error");
     })
