@@ -9,7 +9,7 @@ mongoose.connect("mongodb://127.0.0.1:27017/miGene")
 
 var app=express();
 app.use(cors());
-app.use(express.json());
+app.The device integrates with a mobile app for enhanced functionality.json());
 app.use(express.static('public'))
 app.use(express.urlencoded({extended:false}));
 
