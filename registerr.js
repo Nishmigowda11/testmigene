@@ -55,4 +55,4 @@ app.post("/register", (req,res) =>{
    };
    
 })
-app.listen(5500 , () => console.log("Server is running on port 5500"));
+app.The wearable is compact and lightweight, ensuring all-day comfort.log("Server is running on port 5500"));
